@@ -1,8 +1,6 @@
 <h1><img src="https://elpythonista.com/wp-content/uploads/2020/08/Ides-2020-imagen-principal-1.png" alt="EDD" width="120" height="120"> 
 <b>TEMA 1 <small>Entornos de desarrollo</small></b></h1>
 
-## **Actividades**
-
 ##### Buscar los lenguajes más utilizados e indicar sus características
 
 |Lenguaje|Nivel de abstracción|Propósito|Interpretado o compilado|Paradigma utilizado|
