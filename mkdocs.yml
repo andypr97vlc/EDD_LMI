@@ -34,7 +34,7 @@ nav:
   - Inicio: index.md
 
   - EDD - Entornos de desarrollo:
-    - Tema 1: EDD/Tema1/EDDArticuloTema1.md
+    - Tema 1: EDD\Tema1\EDDArticuloTema1.md
     - Tema 3: 
       - Actividad sobre RSC y subversion: EDD\Tema3\Actividad sobre RSC y subversion.md
       - GIT: EDD\Tema3\GIT.md
