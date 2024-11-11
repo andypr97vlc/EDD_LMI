@@ -2,16 +2,33 @@ site_name: 'Documentación de las tareas'
 theme:
   name: 'material'
   custom_dir: 'docs/overrides'
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.links
+    - content.code.annotation
+    - content.code.copy
+  language: es
   palette:
-    primary: '#3f51b5'
-    accent: '#e91e63'
-    background: '#ffffff'
-    surface: '#f5f5f5'
-    error: '#f44336'
+    # Paleta para cambiar a modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/lightbulb
+        name: Cambiar a modo claro
+    # Paleta para cambiar a modo claro
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/lightbulb-outline
+        name: Cambiar a modo oscuro
 
 extra_css:
-  - 'overrides/extra.css'
-
+  #- 'overrides/extra.css'
 
 nav:
   - Inicio: index.md
@@ -21,7 +38,6 @@ nav:
     - Tema 3: 
       - Actividad sobre RSC y subversion: EDD\Tema3\Actividad sobre RSC y subversion.md
       - GIT: EDD\Tema3\GIT.md
-
 
   - LMI - Lenguaje de marcas:
     - Tema 1: LMI\Tema1\LMIArticuloTema1.md
