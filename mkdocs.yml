@@ -2,7 +2,16 @@ site_name: 'Documentación de las tareas'
 theme:
   name: 'material'
   custom_dir: 'docs/overrides'
-  
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.links
+    - content.code.annotation
+    - content.code.copy
   language: es
   palette:
     # Paleta para cambiar a modo oscuro
