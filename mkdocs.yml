@@ -35,30 +35,30 @@ nav:
 
   - EDD - Entornos de desarrollo:
     - Tema 1: 
-      - Actividades: EDD\Tema1\EDDArticuloTema1.md
+      - Actividades: EDD/Tema1/EDDArticuloTema1.md
     - Tema 3: 
-      - Actividad sobre RSC y subversion: EDD\Tema3\Actividad sobre RSC y subversion.md
-      - GIT: EDD\Tema3\GIT.md
+      - Actividad sobre RSC y subversion: EDD/Tema3/Actividad_sobre_RSC_y_subversion.md
+      - GIT: EDD/Tema3/GIT.md
 
   - LMI - Lenguaje de marcas:
     - Tema 1: 
-      - Actividades: "LMI/Tema1/LMIArticuloTema1.md"
+      - Actividades: LMI/Tema1/LMIArticuloTema1.md
     - Tema 2:
       - HTML:
-        - Ejercicio 1: LMI\Tema2\HTML\Ejercicio1.html
-        - Ejercicio 2: LMI\Tema2\HTML\Ejercicio2.html
-        - Ejercicio 3: LMI\Tema2\HTML\Ejercicio3.html
-        - Ejercicio 4: LMI\Tema2\HTML\Ejercicio4.html
-        - Ejercicio 5: LMI\Tema2\HTML\Ejercicio5.html
-        - Ejercicio 6: LMI\Tema2\HTML\Ejercicio6.html
-        - Ejercicio 7: LMI\Tema2\HTML\Ejercicio7.html
-        - Ejercicio 8: LMI\Tema2\HTML\Ejercicio8.html
-        - Ejercicio 9: LMI\Tema2\HTML\Ejercicio9.html
-        - Ejercicio 10: LMI\Tema2\HTML\Ejercicio10.html
-        - Ejercicio 11: LMI\Tema2\HTML\Ejercicio11.html
-        - Ejercicio 12: LMI\Tema2\HTML\Ejercicio12.html
-        - Ejercicio 13: LMI\Tema2\HTML\Ejercicio13.html
-        - Formulario: LMI\Tema2\HTML\Formulario.html
+        - Ejercicio 1: LMI/Tema2/HTML/Ejercicio1.html
+        - Ejercicio 2: LMI/Tema2/HTML/Ejercicio2.html
+        - Ejercicio 3: LMI/Tema2/HTML/Ejercicio3.html
+        - Ejercicio 4: LMI/Tema2/HTML/Ejercicio4.html
+        - Ejercicio 5: LMI/Tema2/HTML/Ejercicio5.html
+        - Ejercicio 6: LMI/Tema2/HTML/Ejercicio6.html
+        - Ejercicio 7: LMI/Tema2/HTML/Ejercicio7.html
+        - Ejercicio 8: LMI/Tema2/HTML/Ejercicio8.html
+        - Ejercicio 9: LMI/Tema2/HTML/Ejercicio9.html
+        - Ejercicio 10: LMI/Tema2/HTML/Ejercicio10.html
+        - Ejercicio 11: LMI/Tema2/HTML/Ejercicio11.html
+        - Ejercicio 12: LMI/Tema2/HTML/Ejercicio12.html
+        - Ejercicio 13: LMI/Tema2/HTML/Ejercicio13.html
+        - Formulario: LMI/Tema2/HTML/Formulario.html
       - CSS:
-        - Curriculum: LMI\Tema2\CSS\Curriculum.html
-        - Horario: LMI\Tema2\CSS\Horario.html
+        - Curriculum: LMI/Tema2/CSS/Curriculum.html
+        - Horario: LMI/Tema2/CSS/Horario.html
