@@ -42,7 +42,7 @@ nav:
 
   - LMI - Lenguaje de marcas:
     - Tema 1: 
-      - Actividades: "LMI\Tema1\LMIArticuloTema1.md"
+      - Actividades: "LMI/Tema1/LMIArticuloTema1.md"
     - Tema 2:
       - HTML:
         - Ejercicio 1: LMI\Tema2\HTML\Ejercicio1.html
