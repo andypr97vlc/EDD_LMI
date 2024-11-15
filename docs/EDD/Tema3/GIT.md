@@ -5,11 +5,11 @@
 
 ---
 
-## **<u>Instalación y procesos<small>(continua entre ejercicios)</small></u>**
+## **<u>Instalación y procesos<small> (continua entre ejercicios)</small></u>**
 >Mientras vas realizando los diferentes pasos, ve haciendo una pequeña guía en markdown del que consideras más importante, relacionándolo con el apartado de teoría.
 Anota en ella los diferentes cambios que vas haciendo sobre tu directorio de trabajo.
 
-#### *GIT*
+***GIT***
 <p align="center">
     <img src="../../../recursos/Capturas_EDD_Apartado5/1.png"/>
     <br>

@@ -1,7 +1,8 @@
 <h1><img src="https://elpythonista.com/wp-content/uploads/2020/08/Ides-2020-imagen-principal-1.png" alt="EDD" width="120" height="120"> 
 <b>TEMA 1 <small>Entornos de desarrollo</small></b></h1>
 
-##### Buscar los lenguajes más utilizados e indicar sus características
+## **<u>Ejercicio 1</u>**
+>Buscar los lenguajes más utilizados e indicar sus características
 
 |Lenguaje|Nivel de abstracción|Propósito|Interpretado o compilado|Paradigma utilizado|
 |-|-|-|-|-|
@@ -12,9 +13,10 @@
 |C#|Propósito general|Alto|Compilado|Orientada a objetos|
 
 ---
-##### Artículo sobre cómo platearías el desarrollo de una app (lenguajes, tecnologías, etc.)
+## **<u>Ejercicio 2</u>**
+>Artículo sobre cómo platearías el desarrollo de una app (lenguajes, tecnologías, etc.)
 
-<u>Para crear una aplicación para android usaría las siguientes tecnologías:</u>
+Para crear una aplicación para android usaría las siguientes tecnologías:
 
 1. Java para el desarrollo de la app
 2. Room para la base de datos
@@ -22,7 +24,9 @@
 4. Implantación en Google Play
 
 ---
-##### Ejemplos de traducción. Las órdenes python3, cc, java y javac.
+## **<u>Ejercicio 3</u>**
+>Ejemplos de traducción. Las órdenes python3, cc, java y javac.
+
 |<!-- -->|<!-- -->|
 |-|-|
 |python3|*Ejecuta programas o scripts escritos en Python utilizando la versión 3 del lenguaje*|
@@ -31,7 +35,8 @@
 |javac|*Compila archivos de código fuente escritos en Java*|
 
 ---
-##### El efecto Bola de nieve
+## **<u>Ejercicio 4</u>**
+>El efecto Bola de nieve
 
    - <u>Problemas:</u>
      - Falta de comunicación continua
@@ -42,7 +47,8 @@
      - Comunicación continua con el cliente
 
 ---
-##### La web de una empresa
+## **<u>Ejercicio 5</u>**
+  >La web de una empresa
 
 Usaría el modelo en espiral porque implica un desarrollo en ciclos donde se pueden identificar riesgos y realizar una evaluación constante del progreso y de la calidad del producto.
 
@@ -59,7 +65,8 @@ Usaría el modelo en espiral porque implica un desarrollo en ciclos donde se pue
     * Soporte técnico para solucionar posibles problemas
 
 ---
-##### Scrum: Conflicto de intereses
+## **<u>Ejercicio 6</u>**
+>Scrum: Conflicto de intereses
 
 Hubo un conflicto de prioridades y expectativas entre ellos
 

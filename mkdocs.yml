@@ -1,6 +1,8 @@
-site_name: 'Documentación de las tareas'
+site_name: 'Documentación EDD/LMSGI - Andy Pérez'
 theme:
   name: 'material'
+  favicon: recursos/logo.svg
+  logo: recursos/logo.svg
   custom_dir: 'docs/overrides'
   features:
     - navigation.tabs
@@ -35,14 +37,15 @@ nav:
 
   - EDD - Entornos de desarrollo:
     - Tema 1: 
-      - Actividades: EDD/Tema1/EDDArticuloTema1.md
+      - Ejercicios: EDD/Tema1/Ejercicios.md
     - Tema 3: 
-      - Actividad sobre RSC y subversion: EDD/Tema3/Actividad_sobre_RSC_y_subversion.md
+      - Ejercicio sobre RSC y subversion: EDD/Tema3/RSC_Subversion.md
       - GIT: EDD/Tema3/GIT.md
 
-  - LMI - Lenguaje de marcas:
+  - LMSGI - Lenguaje de Marcas y Sistemas de Gestion de Información:
     - Tema 1: 
-      - Actividades: LMI/Tema1/LMIArticuloTema1.md
+      - Apuntes: LMI/Tema1/Apuntes.md   
+      - Ejercicios: LMI/Tema1/Ejercicios.md
     - Tema 2:
       - HTML:
         - Ejercicio 1: LMI/Tema2/HTML/Ejercicio1.html

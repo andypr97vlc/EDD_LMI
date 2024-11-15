@@ -1,28 +1,10 @@
 <h1><img src="https://www.ticarte.com/sites/su/styles/maxxx/public/users/7/teaser/code-markup.jpg?itok=7aKREgQJ" alt="EDD" width="120" height="120"> 
 <b>TEMA 1 <small>Lenguaje de marcas</small></b></h1>
 
----
-# Apuntes
-### Lenguajes informáticos
-Todos los lenguajes de programación son lenguajes informáticos pero todos los lenguajes informáticos no son lenguajes de programación.</br>
-Un lenguaje informático es aquel lenguaje que utilizamos para comunicarnos con el ordenador.
 
-- Legunaje de marcas de presnetación
-    - Los ficheros de tipo odt,docx...
-    - Los HTML al mostrarse por navegador
-- Lenguaje de marcas de procedimiento
-    - LateX
-    - PostScript
-- Lenguajes de marcas descriptivos
-    - SGML
-    - XML
-    - SVG
-- Lenguajes de marcas ligeros
-    - Markdown
-
-## **Actividades**
 ---
-##### Identificar características (elementos, etiquetas, propiedades) de los lenguajes de marcas en diferentes documentos (*svg, HTML, *xml...)
+## **<u>Ejercicio 1</u>**
+>Identificar características (elementos, etiquetas, propiedades) de los lenguajes de marcas en diferentes documentos (*svg, HTML, *xml...)
 
 <u>Documentos en texto plano</u><br/>
 Al usar texto plano sin ningun tipo de enriquecimiento permite el uso de cualquier
@@ -40,7 +22,9 @@ En todos los documentos ofrecidos de usan leguajes de marcas
 <u>Etiquetas identificativas del tipo de contenido</u><br/>
 Las etiquetas de ``<head>`` se usan para el encabezado del documento y el de ``<body>`` para el del cuerpo del documento
 ---
-##### Identificación de los espacios de nombres en documentos (AndroidManifest.xml). Este artículo se podría combinar con el anterior.
+
+## **<u>Ejercicio 2</u>**
+>Identificación de los espacios de nombres en documentos (AndroidManifest.xml). Este artículo se podría combinar con el anterior.
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>

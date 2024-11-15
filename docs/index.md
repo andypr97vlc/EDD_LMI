@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Documentación de Lenguaje de Marcas y Sistemas de Gestion de Información (LMSGI) y Entornos de Desarrollo (EDD)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bienvenido a mi documentación personal sobre las asignaturas **Lenguaje de Marcas y Sistemas de Gestion de Información (LMSGI)** y **Entornos de Desarrollo (EDD)**. Este repositorio reúne mis apuntes, ejercicios y reflexiones.
 
-## Commands
+## Contenido
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### LMSGI (Lenguaje de Marcas y Sistemas de Gestion de Información)
+- Apuntes sobre XML, HTML y CSS.
+- Ejercicios y ejemplos prácticos de estructuración de documentos.
+- Notas sobre validación y mejores prácticas.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### EDD (Entornos de Desarrollo)
+- Apuntes sobre configuración de IDEs y herramientas de desarrollo.
+- Prácticas de control de versiones con Git.
+- Ejercicios de pruebas, depuración y automatización de tareas.

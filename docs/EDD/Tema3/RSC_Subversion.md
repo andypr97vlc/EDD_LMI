@@ -3,11 +3,11 @@
 
 ---
 
-## **<u>Actividad 1. Desarrollo colaborativo</u>**
+## Ejercicio 1. Desarrollo colaborativo
 >Joan y Miquel son dos desarrolladores del mismo proyecto de software. A pesar de que cada cual trabaja unas funcionalidades concretas de una aplicación, tienen que trabajar con el mismo código fuente. Qué mecanismos y qué procedimiento crees que sería más conveniente utilizar a su trabajo diaria?<br>
 Describe en un fichero en formato markdown los mecanismos que utilizarías, justificando el tipo, así como el procedimiento detallado de las operaciones que tendrían que hacer cada vez que van a trabajar con el proyecto.
 
-#### *Mecanismos a Utilizar*
+**Mecanismos a Utilizar**
 
 1. **Control de versiones con Git**
 
@@ -17,7 +17,7 @@ Describe en un fichero en formato markdown los mecanismos que utilizarías, just
 3. **Ramas de desarrollo**:
    Utilizar ramas separadas para las distintas funcionalidades. Esto evitará interferencias mientras trabajan en diferentes partes del proyecto.
 
-#### *Procedimiento Diario de Trabajo*
+**Procedimiento Diario de Trabajo**
 
 1. **Clonar el Repositorio**<br>
    Se deberá clonar el repositorio en las máquinas locales.
@@ -48,13 +48,14 @@ Describe en un fichero en formato markdown los mecanismos que utilizarías, just
 
 ---
 
-## **<u>Actividad 2. Control de versiones y modelo iterativo</u>**
+## **<u>Ejercicio 2.</u> Control de versiones y modelo iterativo**
 >Un equipo de desarrolladores ha decidido abordar un proyecto siguiendo un modelo de desarrollo iterativo e incremental. En la planificación inicial, se ha decidido que se abordará en cinco fases, y cada una tendrá como resultado una versión del producto con la funcionalidad correspondiente a cada iteración.<br><br>
 Para el desarrollo y trabajo en equipo utilizarán SCV Subversion.<br><br>
 Qué estructura u organización crees que sería más interesante para el equipo al repositorio?<br><br>
 Revisa los ejemplos realizados sobre Subversion, y las carpetas que este SCV sugiere que se hagan para guardar, y redacta tu propuesta de estructura/organización en un documento en formato Markdown.
 
-#### *Organización General del Repositorio*
+***Organización General del Repositorio***
+
 1. **Trunk**<br>
    La carpeta trunk tendrá el desarrollo principal del proyecto. Este será el espacio donde se gestionará el código de la versión actual. Cada iteración se integrará aquí una vez que haya sido probada y validada.<br>
    <u>Estructura:</u>
@@ -89,10 +90,10 @@ Revisa los ejemplos realizados sobre Subversion, y las carpetas que este SCV sug
 
 ---
 
-## **<u>Actividad 3.</u>**
+## **<u>Ejercicio 3.</u>**
 >A modo de síntesis de los dos tipos de SCV vistos, crea un documento en formato Markdown indicando las diferencias entre ellos.<br>
 
-#### Diferencias entre RCS y Subversion
+***Diferencias entre RCS y Subversion***
 
 | Característica        | RCS                                                 | Subversion (SVN)                               |
 | --------------------- | --------------------------------------------------- | ---------------------------------------------- |
@@ -118,7 +119,7 @@ Revisa los ejemplos realizados sobre Subversion, y las carpetas que este SCV sug
 
 >Si te fijas, ambos sistemas tienen las órdenes co o ci. Hacen exactamente el mismo en un sistema que en otro? Qué diferencias tienen?
 
-#### Diferencias entre co y ci en RCS y Subversion
+***Diferencias entre co y ci en RCS y Subversion***
 - `co` en RCS: Extrae un archivo para trabajar localmente, bloqueando su edición hasta que se haga un ci.
 - `svn co` en Subversion: Extrae una copia completa del repositorio, permite que múltiples usuarios trabajen en paralelo y no bloquea los archivos.
 - `ci` en RCS: Guarda los cambios de un archivo específico, desbloqueándolo.
