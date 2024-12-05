@@ -5,7 +5,7 @@
     </h1>
 </div>
 
-## Ejercicio 1. Desarrollo colaborativo
+## **Ejercicio 1. Desarrollo colaborativo**
 >Joan y Miquel son dos desarrolladores del mismo proyecto de software. A pesar de que cada cual trabaja unas funcionalidades concretas de una aplicación, tienen que trabajar con el mismo código fuente. Qué mecanismos y qué procedimiento crees que sería más conveniente utilizar a su trabajo diaria?<br>
 Describe en un fichero en formato markdown los mecanismos que utilizarías, justificando el tipo, así como el procedimiento detallado de las operaciones que tendrían que hacer cada vez que van a trabajar con el proyecto.
 
@@ -50,7 +50,7 @@ Describe en un fichero en formato markdown los mecanismos que utilizarías, just
 
 ---
 
-## **<u>Ejercicio 2.</u> Control de versiones y modelo iterativo**
+## **Ejercicio 2. Control de versiones y modelo iterativo**
 >Un equipo de desarrolladores ha decidido abordar un proyecto siguiendo un modelo de desarrollo iterativo e incremental. En la planificación inicial, se ha decidido que se abordará en cinco fases, y cada una tendrá como resultado una versión del producto con la funcionalidad correspondiente a cada iteración.<br><br>
 Para el desarrollo y trabajo en equipo utilizarán SCV Subversion.<br><br>
 Qué estructura u organización crees que sería más interesante para el equipo al repositorio?<br><br>
@@ -92,7 +92,7 @@ Revisa los ejemplos realizados sobre Subversion, y las carpetas que este SCV sug
 
 ---
 
-## **<u>Ejercicio 3.</u>**
+## **Ejercicio 3.**
 >A modo de síntesis de los dos tipos de SCV vistos, crea un documento en formato Markdown indicando las diferencias entre ellos.<br>
 
 ***Diferencias entre RCS y Subversion***
