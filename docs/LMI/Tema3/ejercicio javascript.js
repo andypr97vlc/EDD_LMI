@@ -1,5 +1,4 @@
-// Crear closure creaLibro y pasarle autor título y num_pag
-// hacerlo con 2 libros
+// Crear closure creaLibro y pasarle autor título y num_pag hacerlo con 2 libros
 
 function creaLibro(título, autor, num_pag) {
     let autor_libro = autor
