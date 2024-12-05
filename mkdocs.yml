@@ -39,8 +39,12 @@ nav:
     - Tema 1: 
       - Ejercicios: EDD/Tema1/Ejercicios.md
     - Tema 3: 
-      - Ejercicio sobre RSC y subversion: EDD/Tema3/RSC_Subversion.md
+      - RSC y subversion: EDD/Tema3/RSC_Subversion.md
       - GIT: EDD/Tema3/GIT.md
+      - Clonar  GIT: EDD/Tema3/gitclonar.md
+    - Tema 4:
+      - JAVA: EDD/Tema4/java.md
+      - MAVEN: EDD/Tema4/maven.md
 
   - LMSGI - Lenguaje de Marcas y Sistemas de Gestion de Información:
     - Tema 1: 
