@@ -1,7 +1,9 @@
-<h1><img src="https://elpythonista.com/wp-content/uploads/2020/08/Ides-2020-imagen-principal-1.png" alt="EDD" width="120" height="120"> 
-<b>TEMA 3 <small>Entornos de desarrollo</small></b></h1>
-
----
+<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
+    <h1 style="display: flex; align-items: center;">
+        <img src="https://elpythonista.com/wp-content/uploads/2020/08/Ides-2020-imagen-principal-1.png" alt="EDD" width="120" height="120" style="margin-right: 15px;">
+        <b>TEMA 1 <small>Entornos de desarrollo</small></b>
+    </h1>
+</div>
 
 ## Ejercicio 1. Desarrollo colaborativo
 >Joan y Miquel son dos desarrolladores del mismo proyecto de software. A pesar de que cada cual trabaja unas funcionalidades concretas de una aplicación, tienen que trabajar con el mismo código fuente. Qué mecanismos y qué procedimiento crees que sería más conveniente utilizar a su trabajo diaria?<br>

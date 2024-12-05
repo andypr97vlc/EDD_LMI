@@ -1,8 +1,22 @@
 {% extends "base.html" %}
-
 {% block content %}
-<div class="custom-header">
-    <h1>Bienvenidos a mi documentación</h1>
+<style>
+    .encabezado-centrado-container {
+        display: flex;
+        justify-content: center; /* Centra horizontalmente */
+        text-align: center;      /* Alinea el texto dentro del contenedor */
+    }
+    
+    .encabezado-centrado h1 {
+        margin: 0;               /* Elimina márgenes del encabezado */
+    }
+</style>
+<div class="encabezado-centrado-container">
+    <div class="encabezado-centrado">
+        <h1>Bienvenidos a mi documentación</h1>
+    </div>
 </div>
+<hr>
 {{ super() }}
 {% endblock %}
+

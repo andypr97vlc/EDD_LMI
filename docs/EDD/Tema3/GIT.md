@@ -1,5 +1,9 @@
-<h1><img src="https://elpythonista.com/wp-content/uploads/2020/08/Ides-2020-imagen-principal-1.png" alt="EDD" width="120" height="120"> 
-<b>TEMA 3 <small>Entornos de desarrollo</small></b></h1>
+<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
+    <h1 style="display: flex; align-items: center;">
+        <img src="https://elpythonista.com/wp-content/uploads/2020/08/Ides-2020-imagen-principal-1.png" alt="EDD" width="120" height="120" style="margin-right: 15px;">
+        <b>TEMA 3 <small>Entornos de desarrollo</small></b>
+    </h1>
+</div>
 
 **<h2><big>5</big> Sistema de control de versiones distribuido git</h2>**
 
