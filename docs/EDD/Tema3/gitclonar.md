@@ -5,8 +5,6 @@
     </h1>
 </div>
 
-
-## <u>**Ejercicio 1**</u>
 >Clona el repositorio projecteCompartit en tu ordenador, pero guárdalo con el nombre projecteCompartit2. Crea en él un nuevo fichero fitxer2.md con el contenido “Fichero creado desde otro lugar”, añádelo al control de versiones y envíalo al servidor (esto podría hacerse también desde otro ordenador)
 
 <p align="center">
