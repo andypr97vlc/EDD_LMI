@@ -19,16 +19,14 @@
 
 >Indica a un fichero Markdown el proceso que has seguido, incluyendo el código fuente, las órdenes para compilar y para ejecutar, y la estructura de carpetas resultante. Haz una breve explicación de cada cosa.
 
-<p align="center">
-    <img src="../../../recursos/EDDtema4/java1.png"/>
-    <br>
-    <img src="../../../recursos/EDDtema4/java2.png"/>
-    <br><em>Clonado, creacion de fichero y push hacia la rama main</em><br>
-</p>
+![](../../../recursos/EDDtema4/java1.png)
+![](../../../recursos/EDDtema4/java2.png)
+Clonado, creacion de fichero y push hacia la rama main
 
-<hr>
+---
 
 Código de la función Principal
+
 ```java
 package ejerJava.com.andy.edd;
 

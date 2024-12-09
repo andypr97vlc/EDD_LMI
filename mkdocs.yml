@@ -3,7 +3,6 @@ site_name: 'Documentación EDD/LMSGI - Andy Pérez'
 docs_dir: 'docs_md'
 site_dir: 'docs'
 
-
 theme:
   name: 'material'
   favicon: recursos/logo.svg
@@ -34,12 +33,8 @@ theme:
         icon: material/lightbulb-outline
         name: Cambiar a modo oscuro
 
-
 extra_css:
   #- 'overrides/extra.css'
-
-
-
 
 nav:
   - Inicio: index.md
