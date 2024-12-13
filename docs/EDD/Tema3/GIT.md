@@ -97,7 +97,7 @@ Eliminación de archivos y carpetas no seguidos
 
 `git log`
 
-```log
+~~~log
 Andy-PC@Andy_PC MINGW64 /t/Proyecto (master)
 $ git log
 commit cc06434cd4149daf9c3cae5b3fabf77098fe2f90 (HEAD -> master)
@@ -205,7 +205,7 @@ Author: Andy <andypr97vlc@gmail.com>
 Date:   Mon Oct 28 13:37:32 2024 +0100
 
     Añadiendo el primer commit
-```
+~~~
 
 >Y adjunta al final del documento también un pantallazo del resultado de:
 

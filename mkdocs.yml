@@ -30,6 +30,10 @@ theme:
         icon: material/lightbulb-outline
         name: Cambiar a modo oscuro
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+
 extra_css:
   - 'overrides/extra.css'
 
