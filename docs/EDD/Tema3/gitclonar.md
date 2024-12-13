@@ -4,15 +4,12 @@
 
 ---
 
+![1](../../../recursos/EDDtema3/gitclon1.png)
 
+![2](../../../recursos/EDDtema3/gitclon2.png)
 
-<p align="center">
-    <img src="../../../recursos/EDDtema3/gitclon1.png"/>
-    <br>
-    <img src="../../../recursos/EDDtema3/gitclon2.png"/>
-    <br>
-    <img src="../../../recursos/EDDtema3/gitclon3.png"/>
-    <br>
-    <img src="../../../recursos/EDDtema3/gitclon4.png"/>
-    <br><em>Clonado, creacion de ficjero y push hacia la rama main</em><br>
-</p>
+![3](../../../recursos/EDDtema3/gitclon3.png)
+
+![4](../../../recursos/EDDtema3/gitclon4.png)
+
+Clonado, creacion de ficjero y push hacia la rama main
