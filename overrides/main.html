@@ -3,20 +3,27 @@
 <style>
     .encabezado-centrado-container {
         display: flex;
-        justify-content: center; /* Centra horizontalmente */
-        text-align: center;      /* Alinea el texto dentro del contenedor */
+        align-items: center; /* Alinea verticalmente el contenido */
+        justify-content: center; /* Centra horizontalmente el texto */
     }
-    
-    .encabezado-centrado h1 {
-        margin: 0;               /* Elimina márgenes del encabezado */
+
+    .encabezado-centrado {
+        text-align: center; /* Alinea el texto dentro del contenedor */
+        margin: 0 20px; /* Espaciado lateral para separar texto de las imágenes */
+    }
+
+    .imagen {
+        width: 100px; /* Ajusta el tamaño de las imágenes */
+        height: auto; /* Mantiene la proporción */
     }
 </style>
 <div class="encabezado-centrado-container">
+    <img src="../recursos/LMSGI.svg" alt="Imagen izquierda" class="imagen">
     <div class="encabezado-centrado">
         <h1>Bienvenidos a mi documentación</h1>
     </div>
+    <img src="../recursos/EDD.svg" alt="Imagen derecha" class="imagen">
 </div>
 <hr>
 {{ super() }}
 {% endblock %}
-
