@@ -1,30 +1,17 @@
-<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
-    <h1 style="display: flex; align-items: center;">
-        <img src="https://elpythonista.com/wp-content/uploads/2020/08/Ides-2020-imagen-principal-1.png" alt="EDD" width="120" height="120" style="margin-right: 15px;">
-        <b>TEMA 4 <small>Entornos de desarrollo</small></b>
-    </h1>
-</div>
-
+# **TEMA 4 Entornos de desarrollo**
 
 >Crea una clase llamada Calculadora en un paquete formado por tu nombre (por ejemplo cómo.jose.edd) con los siguientes métodos (funciones):
+>`public static int suma(int a, int b): Que suma a y b y devuelve el resultado,`\
+>`public static int resto(int a, int b): Que resto a y b y devuelve el resultado,`\
+>`public static int multiplica(int a, int b): Que multiplica a y b y devuelve el resultado,`\
+>`public static int divide(int a, int b): Que divide a entre b y devuelve el resultado. Si b es 0, muestra el error y vuelve un 0.`\
+>Y otra clase que a la función principal haga uso de estas funciones, y muestro los resultados por pantalla. Crea el directorio build, y haz uso de este como classpath. Indica a un fichero Markdown el proceso que has seguido, incluyendo el código fuente, las órdenes para compilar y para ejecutar, y la estructura de carpetas resultante. Haz una breve explicación de cada cosa.
 
->`public static int suma(int a, int b): Que suma a y b y devuelve el resultado,`<br>
->`public static int resto(int a, int b): Que resto a y b y devuelve el resultado,`<br>
->`public static int multiplica(int a, int b): Que multiplica a y b y devuelve el resultado,`<br>
->`public static int divide(int a, int b): Que divide a entre b y devuelve el resultado. Si b es 0, muestra el error y vuelve un 0.`<br>
+![Java1](../../../recursos/EDDtema4/java1.png)
 
->Y otra clase que a la función principal haga uso de estas funciones, y muestro los resultados por pantalla.
+![Java2](../../../recursos/EDDtema4/java2.png)
 
->Crea el directorio build, y haz uso de este como classpath.
-
->Indica a un fichero Markdown el proceso que has seguido, incluyendo el código fuente, las órdenes para compilar y para ejecutar, y la estructura de carpetas resultante. Haz una breve explicación de cada cosa.
-
-<p align="center">
-    <img src="../../../recursos/EDDtema4/java1.png"/>
-    <br>
-    <img src="../../../recursos/EDDtema4/java2.png"/>
-    <br><em>Clonado, creacion de fichero y push hacia la rama main</em><br>
-</p>
+Clonado, creacion de fichero y push hacia la rama main
 
 ---
 
@@ -65,7 +52,8 @@ public class Principal {
     }
 }
 ```
-<hr>
+
+---
 
 Código de la función Calculadora
 
