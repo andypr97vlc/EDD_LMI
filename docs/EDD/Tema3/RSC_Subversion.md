@@ -97,12 +97,12 @@ Cada rama tendrá la misma estructura que trunk para mantener consistencia:
 La carpeta tags se utilizará para almacenar versiones específicas del producto, como las versiones finales de cada iteración que ya han sido completamente probadas y aceptadas.
 
 ```bash
-   /tags
-      /v1.0        Tag para la versión 1.0 (final de la fase 1)
-      /v2.0        Tag para la versión 2.0 (final de la fase 2)
-      /v3.0        Tag para la versión 3.0 (final de la fase 3) Etc...
-      /v4.0
-      /v5.0
+/tags
+   /v1.0        Tag para la versión 1.0 (final de la fase 1)
+   /v2.0        Tag para la versión 2.0 (final de la fase 2)
+   /v3.0        Tag para la versión 3.0 (final de la fase 3) Etc...
+   /v4.0
+   /v5.0
 ```
 
 ---
