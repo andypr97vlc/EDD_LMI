@@ -36,7 +36,7 @@ extra_css:
 nav:
   - Inicio: index.md
 
-  - EDD - Entornos de desarrollo:
+  - EDD:
     - Tema 1: 
       - Ejercicios: EDD/Tema1/Ejercicios.md
     - Tema 3: 
@@ -48,7 +48,7 @@ nav:
       - ANT: EDD/Tema4/ant.md
       - MAVEN: EDD/Tema4/maven.md
 
-  - LMSGI - Lenguaje de Marcas y Sistemas de Gestion de Información:
+  - LMSGI:
     - Tema 1: 
       - Apuntes: LMI/Tema1/Apuntes.md   
       - Ejercicios: LMI/Tema1/Ejercicios.md
