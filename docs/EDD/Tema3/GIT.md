@@ -1,109 +1,105 @@
-<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
-    <h1 style="display: flex; align-items: center;">
-        <img src="https://elpythonista.com/wp-content/uploads/2020/08/Ides-2020-imagen-principal-1.png" alt="EDD" width="120" height="120" style="margin-right: 15px;">
-        <b>TEMA 3 <small>Entornos de desarrollo</small></b>
-    </h1>
-</div>
+# **TEMA 3 Entornos de desarrollo**
 
-**<h2><big>5</big> Sistema de control de versiones distribuido git</h2>**
+## Sistema de control de versiones distribuido git
 
 ---
 
-## **<u>Instalación y procesos<small> (continua entre ejercicios)</small></u>**
+## **Instalación y procesos (continua entre ejercicios)**
+
 >Mientras vas realizando los diferentes pasos, ve haciendo una pequeña guía en markdown del que consideras más importante, relacionándolo con el apartado de teoría.
 Anota en ella los diferentes cambios que vas haciendo sobre tu directorio de trabajo.
 
 ***GIT***
-<p align="center">
-    <img src="../../../recursos/Capturas_EDD_Apartado5/1.png"/>
-    <br>
-    <img src="../../../recursos/Capturas_EDD_Apartado5/2.png"/>
-    <br><em>Instalación mediante comando</em><br>
-</p>
-<hr>
-<p align="center">
-    <img src="../../../recursos/Capturas_EDD_Apartado5/3.png"/>
-    <br><em>Configuración de GIT</em><br>
-</p>
-<hr>
-<p align="center">
-    <img src="../../../recursos/Capturas_EDD_Apartado5/4.png"/>
-    <br><em>Creación, inicialización de la carpeta del proyecto y primer commit</em><br>
-</p>
-<hr>
 
-## **<u>Ejercicio 1</u>**
+![1](../../../recursos/Capturas_EDD_Apartado5/1.png)
+
+Instalación mediante comando
+
+---
+
+![3](../../../recursos/Capturas_EDD_Apartado5/3.png)
+
+Configuración de GIT
+
+---
+
+![4](../../../recursos/Capturas_EDD_Apartado5/4.png)
+
+Creación, inicialización de la carpeta del proyecto y primer commit
+
+---
+
+## **Ejercicio 1**
+
 >Prueba a modificar el fichero y observa los cambios en el estado. En qué estado se encontrará ahora el archivo? Qué tendremos que hacer para que los cambios se reflejen en el repositorio? Investiga sobre el parámetro -a de la orden git commit e intenta relacionarlo con este ejercicio.
 
 La opción `-a` permite hacer un commit de todos los archivos al mismo tiempo
 
-<p align="center">
-    <img src="../../../recursos/Capturas_EDD_Apartado5/Ejercicio1.png"/>
-    <br><em>Cambios realizados en el archivo Fichero1.md</em><br>
-</p>
-<hr>
+![Ejercicio1](../../../recursos/Capturas_EDD_Apartado5/Ejercicio1.png)
 
-## **<u>Ejercicio 2</u>**
+Cambios realizados en el archivo Fichero1.md
+
+---
+
+## **Ejercicio 2**
+
 >Crea dos ficheros, denominados tmp1.md y tmp2.md y añádelos dentro del repositorio, comprobando el estado en cada paso, y verificando que están en el repositorio.
 
-<p align="center">
-    <img src="../../../recursos/Capturas_EDD_Apartado5/Ejercicio2-1.png"/>
-</p>
-<p align="center">
-    <img src="../../../recursos/Capturas_EDD_Apartado5/Ejercicio2-2.png"/>
-    <br><em>Creación de ambos archivos, comprovación y verificación</em><br>
-</p>
-<hr>
+![Ejercicio2-1](../../../recursos/Capturas_EDD_Apartado5/Ejercicio2-1.png)
 
-<p align="center">
-    <img src="../../../recursos/Capturas_EDD_Apartado5/5.png"/>
-</p>
-<p align="center">
-    <img src="../../../recursos/Capturas_EDD_Apartado5/6.png"/>
-    <br><em>Eliminación de archivos</em><br>
-</p>
-<hr>
+![Ejercicio2-2](../../../recursos/Capturas_EDD_Apartado5/Ejercicio2-2.png)
 
-<p align="center">
-    <img src="../../../recursos/Capturas_EDD_Apartado5/7.png"/>
-    <br><em>Cambio de nombre local</em><br>
-</p>
-<hr>
+Creación de ambos archivos, comprovación y verificación
 
-<p align="center">
-    <img src="../../../recursos/Capturas_EDD_Apartado5/8.png"/>
-    <br><em>Cambio de nombre directo desde el repositorio</em><br>
-</p>
-<hr>
+---
 
-<p align="center">
-    <img src="../../../recursos/Capturas_EDD_Apartado5/9.png"/>
-    <br><em>Deshacer cambios</em><br>
-</p>
-<hr>
+![5](../../../recursos/Capturas_EDD_Apartado5/5.png)
 
-<p align="center">
-    <img src="../../../recursos/Capturas_EDD_Apartado5/10.png"/>
-</p>
-<p align="center">
-    <img src="../../../recursos/Capturas_EDD_Apartado5/11.png"/>
-    <br><em>Ignorado de ficheros</em><br>
-</p>
-<hr>
+![6](../../../recursos/Capturas_EDD_Apartado5/6.png)
 
-<p align="center">
-    <img src="../../../recursos/Capturas_EDD_Apartado5/12.png"/>
-    <br><em>Eliminación de archivos y carpetas no seguidos</em><br>
-</p>
-<hr>
+Eliminación de archivos
 
-## **<u>Ejercicio git log y git log --oneline</u>**
->Una vez hayas finalizado, copia como código el resultado de la orden:<br>
+---
+
+![7](../../../recursos/Capturas_EDD_Apartado5/7.png)
+
+Cambio de nombre local
+
+---
+
+![8](../../../recursos/Capturas_EDD_Apartado5/8.png)
+
+Cambio de nombre directo desde el repositorio
+
+---
+
+![9](../../../recursos/Capturas_EDD_Apartado5/9.png)
+
+Deshacer cambios
+
+---
+
+![10](../../../recursos/Capturas_EDD_Apartado5/10.png)
+
+![11](../../../recursos/Capturas_EDD_Apartado5/11.png)
+
+Ignorado de ficheros
+
+---
+
+![12](../../../recursos/Capturas_EDD_Apartado5/12.png)
+
+Eliminación de archivos y carpetas no seguidos
+
+---
+
+## **Ejercicio git log y git log --oneline**
+
+>Una vez hayas finalizado, copia como código el resultado de la orden:
+
 ``git log``
-<details closed>
-<summary>Desplegable con todo el contenido del comando git log</summary>
 
-```
+``` bash
 Andy-PC@Andy_PC MINGW64 /t/Proyecto (master)
 $ git log
 commit cc06434cd4149daf9c3cae5b3fabf77098fe2f90 (HEAD -> master)
@@ -212,11 +208,9 @@ Date:   Mon Oct 28 13:37:32 2024 +0100
 
     Añadiendo el primer commit
 ```
-</details>
 
->Y adjunta al final del documento también un pantallazo del resultado de:<br>
+>Y adjunta al final del documento también un pantallazo del resultado de:
+
 ``git log --oneline``
 
-<p align="center">
-    <img src="../../../recursos/Capturas_EDD_Apartado5/gitlog--oneline.png"/>
-</p>
+![gitlog--oneline](../../../recursos/Capturas_EDD_Apartado5/gitlog--oneline.png)
