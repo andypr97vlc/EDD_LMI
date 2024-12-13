@@ -2,8 +2,8 @@ site_name: 'Documentación EDD/LMSGI - Andy Pérez'
 
 theme:
   name: 'material'
-  favicon: recursos/logo.svg
-  logo: recursos/logo.svg
+  favicon: recursos/apuntes.png
+  logo: recursos/apuntes.png
   custom_dir: 'overrides'
   features:
     - navigation.tabs
@@ -31,7 +31,7 @@ theme:
         name: Cambiar a modo oscuro
 
 extra_css:
-  #- 'overrides/extra.css'
+  - 'overrides/extra.css'
 
 nav:
   - Inicio: index.md
