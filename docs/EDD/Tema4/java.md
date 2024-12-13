@@ -1,10 +1,15 @@
 # **TEMA 4 Entornos de desarrollo**
 
 >Crea una clase llamada Calculadora en un paquete formado por tu nombre (por ejemplo cómo.jose.edd) con los siguientes métodos (funciones):
->`public static int suma(int a, int b): Que suma a y b y devuelve el resultado,`\
->`public static int resto(int a, int b): Que resto a y b y devuelve el resultado,`\
->`public static int multiplica(int a, int b): Que multiplica a y b y devuelve el resultado,`\
->`public static int divide(int a, int b): Que divide a entre b y devuelve el resultado. Si b es 0, muestra el error y vuelve un 0.`\
+
+>`public static int suma(int a, int b): Que suma a y b y devuelve el resultado,`
+
+>`public static int resto(int a, int b): Que resto a y b y devuelve el resultado,`
+
+>`public static int multiplica(int a, int b): Que multiplica a y b y devuelve el resultado,`
+
+>`public static int divide(int a, int b): Que divide a entre b y devuelve el resultado. Si b es 0, muestra el error y vuelve un 0.`
+
 >Y otra clase que a la función principal haga uso de estas funciones, y muestro los resultados por pantalla. Crea el directorio build, y haz uso de este como classpath. Indica a un fichero Markdown el proceso que has seguido, incluyendo el código fuente, las órdenes para compilar y para ejecutar, y la estructura de carpetas resultante. Haz una breve explicación de cada cosa.
 
 ![Java1](../../../recursos/EDDtema4/java1.png)

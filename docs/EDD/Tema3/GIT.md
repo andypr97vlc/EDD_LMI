@@ -2,8 +2,6 @@
 
 ## Sistema de control de versiones distribuido git
 
----
-
 ## **Instalación y procesos (continua entre ejercicios)**
 
 >Mientras vas realizando los diferentes pasos, ve haciendo una pequeña guía en markdown del que consideras más importante, relacionándolo con el apartado de teoría.

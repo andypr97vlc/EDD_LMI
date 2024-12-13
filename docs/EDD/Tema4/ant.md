@@ -1,7 +1,5 @@
 # **TEMA 4 Entornos de desarrollo**
 
----
-
 Con este código creamos el xml para poder ejecutar ANT
 
 ```java
