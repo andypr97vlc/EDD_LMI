@@ -1,9 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
-    <h1 style="display: flex; align-items: center;">
-        <img src="https://elpythonista.com/wp-content/uploads/2020/08/Ides-2020-imagen-principal-1.png" alt="EDD" width="120" height="120" style="margin-right: 15px;">
-        <b>TEMA 3 <small>Entornos de desarrollo</small></b>
-    </h1>
-</div>
+# **TEMA 3 Entornos de desarrollo**
 
 >Clona el repositorio projecteCompartit en tu ordenador, pero guárdalo con el nombre projecteCompartit2. Crea en él un nuevo fichero fitxer2.md con el contenido “Fichero creado desde otro lugar”, añádelo al control de versiones y envíalo al servidor (esto podría hacerse también desde otro ordenador)
 
