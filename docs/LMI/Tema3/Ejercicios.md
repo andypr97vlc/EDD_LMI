@@ -1,14 +1,9 @@
-<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
-    <h1 style="display: flex; align-items: center;">
-        <img src="https://www.ticarte.com/sites/su/styles/maxxx/public/users/7/teaser/code-markup.jpg?itok=7aKREgQJ" alt="EDD" width="120" height="120" style="margin-right: 15px;">
-        <b>TEMA 3 <small>Lenguaje de marcas</small></b>
-    </h1>
-</div>
-
+# TEMA 3 Lenguaje de marcas
 
 ## Elementos del lenguaje
 
-### **<u>Declaración de variables y operadores</u>**
+### **Declaración de variables y operadores**
+
 >Declara tres variables con tus colores preferidos y muéstralas por consola. A continuación, utiliza operadores para combinarlas en una nueva variable y muestra el resultado.
 
 ```js
@@ -25,7 +20,8 @@ allcolor = color1 + color2 + color3;
 console.log(allcolor);
 ```
 
-### **<u>Uso de typeof</u>**
+### **Uso de typeof**
+
 >Crea variables de diferentes tipos: un número, una cadena de texto y un valor lógico. Utiliza typeof para mostrar el tipo de cada variable en consola.
 
 ```js
@@ -38,7 +34,8 @@ console.log(typeof text);
 console.log(typeof logic);
 ```
 
-### **<u>Conversión de tipo automática</u>**
+### **Conversión de tipo automática**
+
 >Declara dos variables, una como número y otra como cadena de texto. Asigna una expresión que involucro las dos variables a una tercera variable y comprueba el resultado y el tipo. Explica por qué se obtiene este resultado.
 
 ```js
@@ -53,7 +50,8 @@ console.log(typeof resul);
 
 Se obtiene este resultado ya que JavaScript es un lenguaje de tipificado débil, por lo que el tipo "string" tiene prioridad sobre "number"
 
-### **<u>Vectores y acceso a elementos</u>**
+### **Vectores y acceso a elementos**
+
 >Declara un vector con los días de la semana y muestra en consola el segundo y el quinto elemento. Modifica el último elemento del vector para indicar “Día desconocido”.
 
 ```js
@@ -74,7 +72,8 @@ semana[6] = "Día desconocido"
 console.log(semana)
 ```
 
-### **<u>JSON básico</u>**
+### **JSON básico**
+
 >Define un objeto JSON con información básica sobre un libro (título, autor y año). Muestra el título del libro utilizando el objeto JSON y después añade una nueva propiedad editorial.
 
 ```js
@@ -91,9 +90,12 @@ libro.editorial = "Juan de la cuesta";
 console.log(libro)
 ```
 
+---
+
 ## Programación estructurada
 
-### **<u>Condicionales simples con if/else</u>**
+### **Condicionales simples con if/else**
+
 >Escribe una función verificaHora(hora) que tome como parámetro un número entre 0 y 23. Si la hora está entre 6 y 12, muestra "Buenos días"; si es entre 13 y 20, "Buenas tardes"; y en cualquier otro caso, "Buenas noches".
 
 ```js
@@ -110,7 +112,8 @@ function verificaHora(hora) {
 verificaHora(14)
 ```
 
-### **<u>Condicional switch</u>**
+### **Condicional switch**
+
 >Crea una función determinaDia(numDia) que muestro el nombre del día en valenciano (de “Lunes” a “Domingo”) a partir de un número de 1 a 7 utilizando un switch.
 
 ```js
@@ -143,7 +146,8 @@ function determinaDia(numDia) {
 determinaDia(5)
 ```
 
-### **<u>Bucle for</u>**
+### **Bucle for**
+
 >Escribe un bucle for que muestro los números del 1 al 10. Después, escribe otro for que muestro solo los números pares hasta el 20.
 
 ```js
@@ -156,7 +160,8 @@ for (i = 2; i <= 20; i += 2) {
 }
 ```
 
-### **<u>Bucle for...of y vectores</u>**
+### **Bucle for...of y vectores**
+
 >Declara un vector de tres ciudades valencianas y recórrelo con un for...of para mostrar cada ciudad en consola.
 
 ```js
@@ -166,7 +171,8 @@ for (ciudad of ciudades) {
 }
 ```
 
-### **<u>while y do...while </u>**
+### **while y do...while**
+
 >Escribe un bucle while que empiezo en 10 y vaya restante 1 hasta llegar a 0, mostrando cada valor en consola. A continuación, hiciera el mismo con un do...while.
 
 ```js
@@ -183,9 +189,12 @@ do {
 } while (numDoWhile >= 0);
 ```
 
+---
+
 ## Funciones
 
-### **<u>Función que devuelve un valor</u>**
+### **Función que devuelve un valor**
+
 >Crea una función doble(num) que devuelvo el doble del número proporcionado. Grítala con diferentes valores y muestra los resultados en consola.
 
 ```js
@@ -196,7 +205,8 @@ console.log(doble(16));
 console.log(doble(52));
 ```
 
-### **<u>Función con parámetros por defecto</u>**
+### **Función con parámetros por defecto**
+
 >Escribe una función saludo(nombre = "amigo") que muestro "Hola, [nombre]!". Si no se pasa ningún nombre, tiene que mostrar "Hola, amigo!".
 
 ```js
