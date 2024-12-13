@@ -96,9 +96,10 @@ Eliminación de archivos y carpetas no seguidos
 ## **Ejercicio git log y git log --oneline**
 
 >Una vez hayas finalizado, copia como código el resultado de la orden:
-*git log*
 
-```logs
+`git log`
+
+```log
 Andy-PC@Andy_PC MINGW64 /t/Proyecto (master)
 $ git log
 commit cc06434cd4149daf9c3cae5b3fabf77098fe2f90 (HEAD -> master)
@@ -206,10 +207,10 @@ Author: Andy <andypr97vlc@gmail.com>
 Date:   Mon Oct 28 13:37:32 2024 +0100
 
     Añadiendo el primer commit
-
 ```
 
 >Y adjunta al final del documento también un pantallazo del resultado de:
-*git log --oneline*
+
+`git log --oneline`
 
 ![gitlog--oneline](../../../recursos/Capturas_EDD_Apartado5/gitlog--oneline.png)
