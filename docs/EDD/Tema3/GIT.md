@@ -97,7 +97,7 @@ Eliminación de archivos y carpetas no seguidos
 
 >Una vez hayas finalizado, copia como código el resultado de la orden:
 
-`git log`
+***git log***
 
 ~~~ bash
 Andy-PC@Andy_PC MINGW64 /t/Proyecto (master)
@@ -211,6 +211,6 @@ Date:   Mon Oct 28 13:37:32 2024 +0100
 
 >Y adjunta al final del documento también un pantallazo del resultado de:
 
-`git log --oneline`
+***git log --oneline***
 
 ![gitlog--oneline](../../../recursos/Capturas_EDD_Apartado5/gitlog--oneline.png)
