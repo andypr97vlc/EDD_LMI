@@ -7,7 +7,7 @@ theme:
   custom_dir: 'overrides'
   features:
     - navigation.tabs
-    - toc.integrate
+    - navigation.path
     - navigation.top
     - search.suggest
     - search.highlight
