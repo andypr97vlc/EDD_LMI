@@ -41,6 +41,9 @@ nav:
   - Inicio: index.md
 
   - EDD:
+    - Apuntes:
+      - Tema 1: EDD/Apuntes/ApuntesTema1.md
+      - Tema 3: EDD/Apuntes/ApuntesTema3.md
     - Tema 1: 
       - Ejercicios: EDD/Tema1/Ejercicios.md
     - Tema 3: 
