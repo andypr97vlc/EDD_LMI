@@ -25,35 +25,35 @@
 #### Clasificación segun el nivel de abstracción
 
 - Lenguajes de nivel bajo: Lenguaje más próximos al ordenador.
-  - Lenguaje ensamblador
+    - Lenguaje ensamblador
 - Lenguajes de nivel alto: Lenguajes más próximos al usuario.
-  - Java o Python
+    - Java o Python
 - Lenguajes de nivel intermedio: Lenguajes con capacidades de alto nivel, pero que mantienen algunas capacidades del lenguaje de bajo nivel.
-  - C
+    - C
 
 #### Clasificación según su proposito
 
 - Lenguajes de proposito general: Diseñados para realizar cualquier tipo de tarea.
-  - C, C++, C#, Python o Java
+    - C, C++, C#, Python o Java
 - Lenguajes de proposito específico: Pensados para una tarea más específica.
-  - PHP: Para desarrollo web o R: orientado a la estadísitica.
+    - PHP: Para desarrollo web o R: orientado a la estadísitica.
 
 #### Clasificación segun la forma de ejecutarse
 
 - Lenguajes compilados: Pasan por un proceso de traducción.
-  - C, C++
+    - C, C++
 - Lenguajes interpretados: Requieren un interprete para la traducción a código máquina.
-  - Python
+    - Python
 
 #### Clasificación según el estilo o paradigma de la programación
 
 - Programación imperativa: Se indica como realizar una tarea.
-  - Programación estructurada
-  - Programación Procedimental/modular
-  - Programación orientada a objetos
+    - Programación estructurada
+    - Programación Procedimental/modular
+    - Programación orientada a objetos
 - Programación declarativa: Se indica que hacer, sin preocuparse de como.
-  - Programación funcional
-  - Programación lógica
+    - Programación funcional
+    - Programación lógica
 
 #### Clasificación segun el lugar de ejecución
 
@@ -151,12 +151,12 @@ Donde se corrigen errores no detectados previamente, se realizan mejoras de func
 1. **Cómo funciona Scrum?** Funciona dividiendo el proyecto en pequeñas fases, cada una con un objetivo muy concreto.
 
 2. **Organización del equipo de trabajo:**
-   - Scrum Master: Es el que se asegura de que el framework se aplica correctamente.
-   - Product Owner: Es el representante del cliente, define las necesidades del producto.
-   - Equipo de desarrollo: El encargado de entregar las distintas partes del producto a cada sprint.
+      - Scrum Master: Es el que se asegura de que el framework se aplica correctamente.
+      - Product Owner: Es el representante del cliente, define las necesidades del producto.
+      3- Equipo de desarrollo: El encargado de entregar las distintas partes del producto a cada sprint.
 
 3. **Reuniones:**
-   - Sprint planning: Se realiza antes de empezar el sprint, en ella se plantean las tareas y objetivos.
-   - Daily Scrum: Realizado al inicio de cada día, se sincronizan las tareas del equipo comentando que se hizo el día anterior.
-   - Sprint Review: Al finalizar cada sprint se hace una revisión de todo el proceso.
-   - Sprint retrospective: Realizada también al finalizar cada sprint, tiene como objetivo mejorar el flujo de trabajo del equipo.
+      - Sprint planning: Se realiza antes de empezar el sprint, en ella se plantean las tareas y objetivos.
+      - Daily Scrum: Realizado al inicio de cada día, se sincronizan las tareas del equipo comentando que se hizo el día anterior.
+      - Sprint Review: Al finalizar cada sprint se hace una revisión de todo el proceso.
+      - Sprint retrospective: Realizada también al finalizar cada sprint, tiene como objetivo mejorar el flujo de trabajo del equipo.
