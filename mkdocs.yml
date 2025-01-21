@@ -29,6 +29,12 @@ theme:
         icon: material/lightbulb-outline
         name: Cambiar a modo oscuro
 
+plugins:
+  - mkdocs_jarplantuml:
+      plantuml_jar: plugins/plantuml-1.2025.0.jar
+      output_format: png
+      output_dir: diagrames
+
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -38,6 +44,7 @@ extra_css:
 
 nav:
   - Inicio: index.md
+  - Prueba: prueba.md
 
   - EDD:
     - Apuntes:
