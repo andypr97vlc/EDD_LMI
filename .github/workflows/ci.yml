@@ -25,7 +25,6 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: apt install graphviz -y
       - run: pip install mkdocs-material 
       - run: pip install mkdocs-puml
       - run: pip install -e plugins
