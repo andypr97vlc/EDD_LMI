@@ -40,7 +40,7 @@ markdown_extensions:
   - pymdownx.details
 
 extra_css:
-  - 'overrides/extra.css'
+  - 'extra.css'
 
 nav:
   - Inicio: index.md
