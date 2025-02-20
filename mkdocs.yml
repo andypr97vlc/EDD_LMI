@@ -4,7 +4,7 @@ theme:
   name: 'material'
   favicon: recursos/apuntes.png
   logo: recursos/apuntes.png
-  custom_dir: 'overrides'
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.path
