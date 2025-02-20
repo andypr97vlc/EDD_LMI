@@ -40,11 +40,10 @@ markdown_extensions:
   - pymdownx.details
 
 extra_css:
-  - 'extra.css'
+  - extra.css
 
 nav:
   - Inicio: index.md
-  - Prueba: prueba.md
 
   - EDD:
     - Apuntes:

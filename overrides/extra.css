@@ -1,3 +1,6 @@
 body {
-    background-image: url('/tareas_LMI_EDD/docs/recursos/fondo.png');
+    background-image: url('https://raw.githubusercontent.com/andypr97vlc/EDD_LMI/refs/heads/master/docs/recursos/fondo.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
