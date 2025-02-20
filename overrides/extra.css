@@ -1,6 +1,14 @@
-body {
-    background-image: url('https://raw.githubusercontent.com/andypr97vlc/EDD_LMI/refs/heads/master/docs/recursos/fondo.png');
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../docs/recursos/fondo.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    opacity: 0.3;
+    z-index: -1;
 }
